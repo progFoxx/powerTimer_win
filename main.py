@@ -55,4 +55,4 @@ window.mainloop()
 #m = int(input("минуты >>"))
 #fullTime = (h * hour)+(m * min)
 #os.system(f'shutdown -s -t {fullTime}')
-#os.system('shutdown -a')
+#os.system('shutdown -a')q23124214
